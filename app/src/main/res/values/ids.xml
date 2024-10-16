@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="medicationName" type="id" />
+    <item name="medicationTime" type="id" />
+    <item name="setDailyReminder" type="id" />
+    <item name="setWeeklyReminder" type="id" />
+    <item name="medicationListView" type="id" />
+</resources>
